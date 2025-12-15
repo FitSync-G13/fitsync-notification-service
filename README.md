@@ -167,7 +167,7 @@ The test suite covers:
 
 - **Total Tests:** 63
 - **Passing:** 63
-- **Coverage Areas:** Event handlers, notification storage, HTTP client utilities
+- **Coverage Areas:** Event handlers,notification storage,HTTP client utilities
 
 ## More Information
 

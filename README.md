@@ -2,6 +2,7 @@
 
 Notification management service for the FitSync application.
 
+
 ## Features
 
 - Multi-channel notifications (Email, Push, In-app)
